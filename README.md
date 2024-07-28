@@ -1,1 +1,1 @@
-A tool for authenticate public keys of different Crypto Currencies.
+A tool for authenticattion of public keys of different Crypto Currencies.
